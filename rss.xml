@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title></title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Tue, 21 Jun 2022 23:09:50 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>Joplin Pages Publisher</generator>
+        <item>
+            <title><![CDATA[If you don't ever fail, eventually you'll run out of things to learn.]]></title>
+            <guid>438f0b8e847f4e1394201970c2a9e43c</guid>
+            <pubDate>Tue, 21 Jun 2022 20:38:08 GMT</pubDate>
+            <content:encoded><![CDATA[<p>If you don’t ever fail, eventually you’ll run out of things to learn.</p>
+<ul>
+<li>me</li>
+</ul>
+]]></content:encoded>
+        </item>
+    </channel>
+</rss>
